@@ -1,0 +1,8 @@
+{
+  "name": "Krishitej",
+  "description": "An intelligent agricultural assistant named Krishitej that provides soil analysis, crop recommendations with market price data, disease detection via photo, and real-time voice support to help farmers improve yield and profitability.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
